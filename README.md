@@ -52,14 +52,15 @@ Mi enfoque no es solo que se vea premium; es que funcione, convierta y escale de
 
 ---
 
-### 🚀 Proyectos Destacados (En Desarrollo & Producción)
+### 🚀 Proyectos Destacados (En Producción & Desarrollo)
 
-| Proyecto | Descripción | Rol / Tech |
-| :--- | :--- | :--- |
-| **🤖 Tuppie** | Asistente de IA automatizado para gestión de catálogos corporativos y atención al cliente vía WhatsApp. | `Arquitectura IA`, `Node.js`, `Evolution API` |
-| **🏋️ Apex Human OS** | Aplicación fitness multiplataforma con enfoque en estética "gymrat" y rendimiento de alto nivel. | `UI/UX`, `Flutter`, `Firebase` |
-| **🦷 SaaS in a Box** | Sistemas de gestión modular y dashboards administrativos diseñados para distribución escalable (Etsy, etc.). | `React`, `HTML/CSS`, `Dark UI` |
-| **🧠 Jarvis (Local AI)** | Agente de IA local con function calling para administración de sistema y automatización de tareas diarias. | `macOS Terminal`, `Prompting`, `Python/Node` |
+| Proyecto | Descripción | Enlaces | Rol / Tech |
+| :--- | :--- | :--- | :--- |
+| **🤖 Tuppie** | Asistente de IA para gestión de catálogos corporativos y atención al cliente. | [Live Demo ↗](https://mickaeldesigner.github.io/tupperware-chat/) <br> [Repo ⚙️](https://github.com/MickaelDesigner/tupperware-chat) | `Arquitectura IA`, `Node.js` |
+| **🎵 Audio Flow UI** | Dashboard de reproducción y gestión musical. Enfoque en UI/UX minimalista de alto contraste. | [Live Demo ↗](https://mickaeldesigner.github.io/Website-Music/#) <br> [Repo ⚙️](https://github.com/MickaelDesigner/Website-Music) | `Frontend`, `UI/UX` |
+| **🏋️ Apex Human OS** | Aplicación fitness multiplataforma con estética "gymrat" y rendimiento de alto nivel. | *En desarrollo* | `Flutter`, `Firebase` |
+| **🦷 SaaS in a Box** | Dashboards administrativos y sistemas de gestión modular diseñados para distribución escalable. | *En desarrollo* | `React`, `Dark UI` |
+| **🧠 Jarvis (Local AI)** | Agente de IA local con control de sistema y automatización de tareas diarias. | *En desarrollo* | `macOS`, `Python/Node` |
 
 ---
 
