@@ -84,7 +84,7 @@ Si buscas hablar sobre diseño de sistemas, integrar agentes de IA en tu empresa
   <a href="https://www.behance.net/mickaelvasquez">
     <img src="https://img.shields.io/badge/Behance-FF004E?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="mailto:mickael.diseno@gmail.com">
+  <a href="mailto:hola@mickaelvasquez.tech">
     <img src="https://img.shields.io/badge/Email-281C38?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
